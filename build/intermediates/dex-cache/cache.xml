@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\App Icon\Android projects\TravelWithMe2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\App Icon\Android projects\TravelWithMe2\app\build\intermediates\pre-dexed\debug\classes-e8267ea4f6a63c8a1a46b477f2eb9b27cd880e22.jar" />
+    </item>
+    <item
+        jar="C:\App Icon\Android projects\TravelWithMe2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\App Icon\Android projects\TravelWithMe2\app\build\intermediates\pre-dexed\debug\classes-fe39fb104bc3eaba9d197fdd30b497169e708ec4.jar" />
+    </item>
+    <item
+        jar="C:\App Icon\Android projects\TravelWithMe2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\App Icon\Android projects\TravelWithMe2\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-ff5fbf93e003abdcf5d31ffc7e8e4050af8247af.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\App Icon\Android projects\TravelWithMe2\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-98e317b8bd244ff077ce1087d0ae7c96b3a7904f.jar" />
+    </item>
+
+</items>
